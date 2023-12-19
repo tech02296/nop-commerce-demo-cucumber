@@ -1,0 +1,21 @@
+2023-12-18 18:12:568 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (4cfc2c753b73ee019c796cb7aacd80ee)] -> link text: Log in]
+2023-12-18 18:12:290 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (4cfc2c753b73ee019c796cb7aacd80ee)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 18:12:831 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (14e5eeeb0aaf4c21eeaeb5c8ff0316e7)] -> link text: Log in]
+2023-12-18 18:12:858 INFO  LoginPage :45 - Enter EmailId 'prime123@gmail.com' to emailField : 
+2023-12-18 18:12:14 INFO  LoginPage :50 - Enter Password 'abc123' to password field : 
+2023-12-18 18:12:604 INFO  LoginPage :55 - Click on loginButton
+2023-12-18 18:12:38 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (e66f66ffbacd7ad3bd00d3bbaf4b53c3)] -> link text: Log in]
+2023-12-18 18:12:796 INFO  LoginPage :45 - Enter EmailId 'prime123@gmail.com' to emailField : 
+2023-12-18 18:12:961 INFO  LoginPage :50 - Enter Password 'Prime123' to password field : 
+2023-12-18 18:12:415 INFO  LoginPage :55 - Click on loginButton
+2023-12-18 18:12:896 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (5b7162e79c388cd66c206df4aa21c40a)] -> link text: Log in]
+2023-12-18 18:12:409 INFO  LoginPage :45 - Enter EmailId 'prime123@gmail.com' to emailField : 
+2023-12-18 18:12:568 INFO  LoginPage :50 - Enter Password 'Prime123' to password field : 
+2023-12-18 18:12:930 INFO  LoginPage :55 - Click on loginButton
+2023-12-18 18:12:729 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (a655422d12296e876d17e7b765ed7b1e)] -> link text: Register]
+2023-12-18 18:12:419 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (4a955eb5ada03524fc17b6496b5ae7c9)] -> link text: Register]
+2023-12-18 18:12:736 INFO  RegisterPage :170 - Click on 'REGISTER' button
+2023-12-18 18:12:621 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (1a6c8a8d7602fcab719d1cddca47659e)] -> link text: Register]
+2023-12-18 18:12:499 INFO  RegisterPage :122 - Select 'Female' radio button
+2023-12-18 18:12:734 INFO  RegisterPage :131 - Enter Firstname : 'Pari' to firstName field
+2023-12-18 18:12:894 INFO  RegisterPage :136 - Enter Lastname : 'Chotaliya' to lastName field
